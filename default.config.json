@@ -1,0 +1,9 @@
+{
+  "users":[{
+     "UserPrincipalName": "Your Aliyun User Principal Name",
+     "Password": "Your Aliyun Password",
+     "AccessKeyId": "AccessKeyId",
+     "AccessKeySecret": "AccessKeySecret"
+  }],
+  "domains": {"DomainName1": ["RR"],"DomainName2": ["RR"]}
+}
