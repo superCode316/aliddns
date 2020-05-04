@@ -18,6 +18,8 @@
 
 上面这个例子将 example.fun 和 map.example.fun 解析到运行程序的电脑的公网ip
 
+然后将文件名修改为config.json
+
 运行
 
 ```python
